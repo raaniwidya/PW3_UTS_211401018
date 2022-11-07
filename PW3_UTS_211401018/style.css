@@ -1,0 +1,43 @@
+#home {
+    background-color: black;
+}
+
+.navbar {
+    background-color: rgb(73, 46, 32);
+}
+
+.jumbotron {
+    background: url(gambar/img1.jpg)
+}
+
+#slide {
+    background-color: black;
+    margin-bottom: 2rem;
+}
+
+#coffee {
+    background-color: black;
+}
+
+#cake {
+    background: url(gambar/bgcake3.jpg);
+}
+
+#about {
+    background: url(gambar/bgcake3.jpg);
+}
+
+#contact {
+    background-color: black;
+    color: white;
+}
+
+#booking {
+    background: url(gambar/bgcake3.jpg);
+}
+
+@media (prefers-reduced-motion: no-preference) {
+    :root {
+        scroll-behavior: smooth;
+        }
+    }
